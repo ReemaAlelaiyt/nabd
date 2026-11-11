@@ -1,0 +1,9 @@
+# AI model from OpenAI Groq
+openai>=1.40
+# Tracing 
+langsmith>=0.1.100
+# Loads  keys from the .env file
+python-dotenv>=1.0
+# Testing
+pytest>=7.0
+#  The interface (Implementation pt2) should add its own GUI library here, e.g. streamlit or PyQt.
